@@ -1,5 +1,5 @@
 # pixel-rank-tracker
-This is a keyword rank tracker I build that tracks pixel position as well as standard position in Google. To do this requires a proxy provider. I used Trusted Proxies because they were really easy to use but I'm sure others would work.
+This is a keyword rank tracker I build using Node.js that tracks pixel position as well as standard position in Google. To do this requires a proxy provider. I used Trusted Proxies because they were really easy to use but I'm sure others would work.
 
 This Google position rank tracker can track pixel positions on both mobile and desktop browsers. Right now it runs sychnronously, but I'm playing around with adding async functionality to it, maybe I'll finish that eventually.
 
